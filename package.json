@@ -1,0 +1,29 @@
+{
+  "name": "@martijndirksen/openapi-ts",
+  "version": "1.0.0",
+  "description": "OpenAPI Typescript client generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijndirksen/openapi-ts.git"
+  },
+  "keywords": [
+    "OpenAPI",
+    "TS",
+    "Typescript",
+    "client",
+    "generator"
+  ],
+  "author": "Martijn Dirksen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/martijndirksen/openapi-ts/issues"
+  },
+  "homepage": "https://github.com/martijndirksen/openapi-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
